@@ -21,10 +21,16 @@ body>div{
 
 .wrapper.appcontainer{
   width: 40%;
-  height: 500px;
+  height: 300px;
+  padding: 10px;
+  border: 1px solid black;
 
 }
 
 input {
 
+}
+
+#startCalcBtn {
+  margin-top: 30px;
 }
